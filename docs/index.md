@@ -6,7 +6,7 @@ hero:
   name: "Nuclear Ambitions"
   text: "Featuring Zanzibar's World of Nuclear Energy"
   tagline: Learn about the amazing potential of nuclear energy, and share with your friends.
-  image: ./nuclear-power-plant.jpg
+  image: /images/nuclear-power-plant.jpg
   actions:
     - theme: brand
       text: World of Nuclear
