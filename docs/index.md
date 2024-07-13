@@ -29,4 +29,4 @@ features:
 
 Photo by <a href="https://unsplash.com/@federi?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Patrick Federi</a> on <a href="https://unsplash.com/photos/white-smoke-coming-out-from-green-field-uvtUELc92SI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
-&copy; Copyright Nuclear Ambitions
+&copy; 2024 Nuclear Ambitions LLC
