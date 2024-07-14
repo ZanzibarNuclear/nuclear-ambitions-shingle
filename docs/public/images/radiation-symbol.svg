@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="110.26458mm"
+   height="110.26458mm"
+   viewBox="0 0 110.26458 110.26458"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1"
+     transform="translate(-39.272981,-14.12572)">
+    <g
+       id="g19">
+      <circle
+         style="font-variation-settings:normal;opacity:1;fill:#fdff00;fill-opacity:1;fill-rule:evenodd;stroke:#fdff00;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+         id="circle10"
+         cx="94.405273"
+         cy="69.258011"
+         r="55" />
+      <circle
+         style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.253066;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+         id="path10"
+         cx="94.405273"
+         cy="69.258011"
+         r="10" />
+      <path
+         d="m 109.4051,69.319377 a 15,15 0 0 0 -7.4998,-12.99042 L 119.405,26.018144 a 50,50 0 0 1 25.00004,43.301233 z"
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.253066;stop-color:#000000;stop-opacity:1"
+         id="path17" />
+      <path
+         d="m 79.350043,69.319377 a 15,15 0 0 1 7.4998,-12.99042 l -17.4997,-30.31081 a 50,50 0 0 0 -25.00004,43.30123 z"
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.253066;stop-color:#000000;stop-opacity:1"
+         id="path18" />
+      <path
+         d="m 101.73433,82.269955 a 15,15 0 0 1 -14.999814,-0.0579 L 69.117074,112.45458 a 50,50 0 0 0 49.999606,0.19386 z"
+         style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.253066;stop-color:#000000;stop-opacity:1"
+         id="path19" />
+    </g>
+  </g>
+</svg>

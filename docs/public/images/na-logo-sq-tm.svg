@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="38.292244mm"
+   height="38.292255mm"
+   viewBox="0 0 38.292244 38.292255"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1"
+     transform="translate(-100.55102,-249.50747)">
+    <g
+       id="g6"
+       transform="translate(53.986859,-7.4872287)">
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:#4682b4;stroke-width:0.265;stroke-dasharray:none;stroke-opacity:1"
+         id="rect6"
+         width="38.027241"
+         height="38.027241"
+         x="46.696667"
+         y="257.1272" />
+      <path
+         style="fill:none;stroke:#4682b4;stroke-width:1.05833;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 49.937852,291.07311 c 9.4942,-20.67429 2.63589,-27.81479 2.63589,-27.81479"
+         id="path1" />
+      <path
+         style="fill:none;stroke:#4682b4;stroke-width:1.05833;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+         d="m 77.754592,290.77756 c -9.4942,-20.67429 -2.63589,-27.81479 -2.63589,-27.81479"
+         id="path2" />
+      <g
+         id="g5"
+         transform="translate(15.992491,46.817876)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:Orbitron;-inkscape-font-specification:'Orbitron, @wght=600';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 600;fill:#4682b4;fill-opacity:1;stroke:#4682b4;stroke-width:0.333999;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+           x="40.798077"
+           y="229.31535"
+           id="text2"><tspan
+             id="tspan2"
+             style="fill:#4682b4;fill-opacity:1;stroke:#4682b4;stroke-width:0.334;stroke-opacity:1"
+             x="40.798077"
+             y="229.31535">N</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;font-family:Orbitron;-inkscape-font-specification:'Orbitron, @wght=600';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 600;fill:#4682b4;fill-opacity:1;stroke:#4682b4;stroke-width:0.333999;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+           x="40.76421"
+           y="243.90312"
+           id="text5"><tspan
+             id="tspan5"
+             style="fill:#4682b4;fill-opacity:1;stroke:#4682b4;stroke-width:0.334;stroke-opacity:1"
+             x="40.76421"
+             y="243.90312">A</tspan></text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:9.82237px;font-family:Orbitron;-inkscape-font-specification:'Orbitron, @wght=600';font-variation-settings:'wght' 600;fill:#4682b4;stroke:#4682b4;stroke-width:0.613897;stroke-linecap:square;stroke-linejoin:bevel"
+         x="75.885612"
+         y="267.59506"
+         id="text6"><tspan
+           id="tspan6"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.6834px;font-family:Orbitron;-inkscape-font-specification:'Orbitron, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.613897"
+           x="75.885612"
+           y="267.59506">TM</tspan></text>
+    </g>
+  </g>
+</svg>
