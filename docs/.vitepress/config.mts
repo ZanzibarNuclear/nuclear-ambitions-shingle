@@ -5,7 +5,7 @@ export default defineConfig({
   description:
     "Highlighting the amazing potential of nuclear energy to empower humanity to thrive.",
   themeConfig: {
-    logo: "/images/na-logo-full-tm.svg",
+    logo: "/images/na-logo-full-tm.png",
     siteTitle: false,
     nav: [
       { text: "Home", link: "/" },
