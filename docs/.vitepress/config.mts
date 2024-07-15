@@ -1,6 +1,7 @@
 import { defineConfig } from "vitepress";
 
 export default defineConfig({
+  title: "Nuclear Ambitions",
   description:
     "Highlighting the amazing potential of nuclear energy to empower humanity to thrive.",
   themeConfig: {
