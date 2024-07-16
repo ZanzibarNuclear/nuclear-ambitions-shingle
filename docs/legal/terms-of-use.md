@@ -54,4 +54,4 @@ These terms apply to domains (and their subdomains) owned and operated by Nuclea
 
 ## 8. Contact Us
 
-8.1 If you have any questions about these Terms, please contact us at support@nuclearambitions.com.
+8.1 If you have any questions about these Terms, please contact us at support@worldofnuclear.com.
