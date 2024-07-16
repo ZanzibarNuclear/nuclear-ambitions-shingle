@@ -1,19 +1,19 @@
-# About Nuclear Ambitions
+# About Nuclear Ambitions LLC
 
-During World War II, governments and scientists doubled down to crack the code of nuclear energy. Standing on the shoulders of...well...each other, in addition to those who explored and discovered before them, humankind figured out how to extract massive amounts of energy from some of the smallest particles in existence.
+Nuclear Ambitions LLC is here to encourage the world to keep advancing with nuclear energy. We want the world to get more from nuclear and reduce or mitigate any side effects. We want to expand our ability to tap into life-giving energy so that humanity can thrive. With abundance comes freedom and happiness.
 
-Then stuff really started to happen. Bad stuff came first, then a whole lot of good stuff with some bad stuff mixed in to trip things up.
+## A Brief History of Nuclear Energy
 
-Then the world got cold feet about hot reactors, and we drifted for decades, reaping the advantages of nuclear energy without pushing to hard to expand our expertise.
+4 1/2 billion years ago, give or take a few decades, our solar system was formed, as a massive cloud of cosmic dust collapsed under its own weight. The pressure of formation gave us the elements, the stuff of our existence.
 
-...Here is where we tell more of the tale...
+Fast forward to 1896. The French physicist Henri Becquerel discovered nuclear radiation. Then, the Polish-French couple, Marie and Pierre Curie, researched the phenomenon and coined the term "radioactivity." Together, they uncovered the invisible forces of nuclear energy, leading the way for other scientists to advance our collective understanding of this stealthy miracle.
 
-## Mission
+Then World War II started. While curiosity is a powerful motivator, fear adds resolve. Scientists knew from Einstein's theory of special relativity that small amounts of matter could be converted into god-scale quantities of energy, enough for explosive devices thousands or millions of times more powerful than chemically based weapons of the day. The intellectual footrace to come up with the first nuclear bomb exposed a number of intriguing pathways.
 
-Nuclear Ambitions is here to encourage the world to keep advancing with nuclear energy. We want to get more from nuclear and reduce or mitigate the negative side effects. We want to expand our ability to tap into life-giving energy so that humanity can thrive. With abundance, people will have less interest in using nuclear energy for destructive ends, which will be a positive side effect.
+By exploring these paths and after decades of experimentation, people have figured out lots of uses of nuclear energy. These fall into two categories: how to destroy things without discrimination, and how to unlock life-enhancing power for unlimited levels of abundance. Nuclear Ambitions is focused on the latter, how nuclear energy is used to help humanity flourish in balance with our ecosystem.
 
-Join us in helping people learn about nuclear energy in all the creative ways we can dream of.
+## Our Projects
 
-![radiation symbol](/images/radiation-symbol.svg)
+The number one mission of Nuclear Ambitions is education. We believe that people need knowledge to succeed and to have a chance of making progress. Knowledge comes from forming better explanations, which can only happen by testing and challenging our current understanding. True science is all about that, and that is the frame in which Nuclear Ambitions operates.
 
-Do you like the radiation symbol I made? I followed [the spec from this article](https://www.iaea.org/newscenter/news/how-are-universal-ionizing-radiation-symbols-used-around-the-world).
+To realize this mission, we bring you Zanzibar's World of Nuclear Energy, a place where people can learn about nuclear energy in variety of creative ways. You can read about the [World of Nuclear](world-of-nuclear) on the next page.

@@ -1,8 +1,10 @@
+Last Updated on July 16, 2024.
+
 # Privacy Policy
 
 Privacy Policy
 
-This Privacy Policy describes how Nuclear Ambitions, LLC ("we" or "us") collects, uses, and discloses information that we may obtain through your use of the [Your Website Name] website (the "Site").
+This Privacy Policy describes how Nuclear Ambitions LLC ("we" or "us") collects, uses, and discloses information that we may obtain through your use of the [World of Nuclear](https://worldofnuclear.com) website (the "Site").
 
 ## 1. Information We Collect
 
@@ -36,4 +38,4 @@ We may also collect information about your use of the Site.
 
 ## 7. Contact Us
 
-7.1 If you have any questions about this Privacy Policy, please contact us at support@nuclearambitions.com.
+7.1 If you have any questions about this Privacy Policy, please contact us at support@worldofnuclear.com.

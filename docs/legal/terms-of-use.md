@@ -1,8 +1,13 @@
-Last Updated on April 10, 2024.
+Last Updated on July 16, 2024.
 
 # Terms of Use
 
 This website (the "Site") is owned and operated by Nuclear Ambitions, LLC ("we" or "us"). These Terms of Service ("Terms") govern your use of the Site. By accessing or using the Site, you agree to be bound by these Terms. If you do not agree to these Terms, please do not use the Site.
+
+These terms apply to domains (and their subdomains) owned and operated by Nuclear Ambitions LLC, including:
+
+- World of Nuclear: worldofnuclear.com
+- Nuclear Ambitions: nuclearambitions.com
 
 ## 1. Use of the Site
 
