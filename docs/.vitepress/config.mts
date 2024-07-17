@@ -17,6 +17,10 @@ export default defineConfig({
         items: [
           { text: "About Nuclear Ambitions", link: "/about/" },
           {
+            text: "Who We Are",
+            link: "/about/staff",
+          },
+          {
             text: "World of Nuclear",
             link: "/about/world-of-nuclear",
           },
