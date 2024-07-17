@@ -1,5 +1,3 @@
-Last Updated on July 16, 2024.
-
 # Privacy Policy
 
 Privacy Policy

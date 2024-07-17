@@ -1,3 +1,7 @@
+---
+lastUpdated: false
+---
+
 # World of Nuclear
 
 What if you could learn about nuclear energy in a safe environment, with the support of people who are honest and enthusistic? What if you could combine scientific study and experimentation with discourse and creativity?

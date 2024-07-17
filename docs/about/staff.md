@@ -1,3 +1,7 @@
+---
+lastUpdated: false
+---
+
 <script setup>
   import { VPTeamMembers } from 'vitepress/theme'
 

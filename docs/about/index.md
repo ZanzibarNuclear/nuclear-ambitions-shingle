@@ -1,3 +1,7 @@
+---
+lastUpdated: false
+---
+
 # About Nuclear Ambitions LLC
 
 Nuclear Ambitions LLC is here to encourage the world to keep advancing with nuclear energy. We want the world to get more from nuclear and reduce or mitigate any side effects. We want to expand our ability to tap into life-giving energy so that humanity can thrive. With abundance comes freedom and happiness.
@@ -16,4 +20,4 @@ By exploring these paths and after decades of experimentation, people have figur
 
 The number one mission of Nuclear Ambitions is education. We believe that people need knowledge to succeed and to have a chance of making progress. Knowledge comes from forming better explanations, which can only happen by testing and challenging our current understanding. True science is all about that, and that is the frame in which Nuclear Ambitions operates.
 
-To realize this mission, we bring you Zanzibar's World of Nuclear Energy, a place where people can learn about nuclear energy in variety of creative ways. You can read about the [World of Nuclear](world-of-nuclear).
+To realize this mission, we bring you Zanzibar's World of Nuclear Energy, a place where people can learn about nuclear energy in variety of creative ways. You can read about the [World of Nuclear](world-of-nuclear) on the next page.
