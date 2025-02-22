@@ -9,10 +9,10 @@ lastUpdated: false
     {
       avatar: 'https://avatars.githubusercontent.com/u/74470787?v=4',
       name: 'Dave Mount',
-      title: 'Creator',
+      title: 'Founder',
       links: [
         { icon: 'x', link: 'https://x.com/WeAreZenZen'},
-        { icon: 'linkedin', link: 'https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=davemount'},
+        { icon: 'linkedin', link: 'https://www.linkedin.com/in/davemount/'},
         { icon: 'github', link: 'https://github.com/blueisgreen'},
       ]
     },
@@ -48,5 +48,3 @@ lastUpdated: false
 # Our Mindhive
 
 <VPTeamMembers size="small" :members="members" />
-
-<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=davemount" target="_blank">Follow Dave on LinkedIn</a>
