@@ -1,3 +1,7 @@
+---
+lastUpdated: true
+---
+
 # Privacy Policy
 
 Privacy Policy
@@ -36,4 +40,4 @@ We may also collect information about your use of the Site.
 
 ## 7. Contact Us
 
-7.1 If you have any questions about this Privacy Policy, please contact us at support@worldofnuclear.com.
+7.1 If you have any questions about this Privacy Policy, please contact us at contact@worldofnuclear.com.

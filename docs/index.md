@@ -12,16 +12,16 @@ hero:
       text: World of Nuclear
       link: /about/world-of-nuclear
     - theme: alt
-      text: About
+      text: About Nuclear Ambitions
       link: /about/
 
 features:
   - title: World of Nuclear
     details: A digital platform for learning about nuclear energy. Join Zanzibar, Nuclear Hero, in his quest to empower the world.
-  - title: And more...
-    details: What else can we do to help? Share your ideas with us.
+  - title: Flux
+    details: Is X your ex-social-platform? Does BlueSky leave you blue? Does Reddit make you red in the face? Try fluxing your power on Flux.
 ---
 
-&copy;2024 Nuclear Ambitions LLC
+&copy;2025 Nuclear Ambitions LLC
 
 <span style="font-size:smaller">Photo by <a href="https://unsplash.com/@federi?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Patrick Federi</a> on <a href="https://unsplash.com/photos/white-smoke-coming-out-from-green-field-uvtUELc92SI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></span>
