@@ -46,14 +46,20 @@ These terms apply to domains (and their subdomains) owned and operated by Nuclea
 
 5.1 To the fullest extent permitted by applicable law, we shall not be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits or revenues, whether incurred directly or indirectly, or any loss of data, use, goodwill, or other intangible losses, resulting from (a) your use or inability to use the Site; (b) any unauthorized access to or use of our servers and/or any personal information stored therein; (c) any interruption or cessation of transmission to or from the Site; (d) any bugs, viruses, Trojan horses, or the like that may be transmitted to or through the Site by any third party.
 
-## 6. Governing Law
+## 6. Account Deletion
 
-6.1 These Terms shall be governed by and construed in accordance with the laws of California, USA, without regard to its conflict of law principles.
+6.1 You may cease to use this service at any time.
 
-## 7. Changes to Terms
+6.2 Upon your written request, we will remove all of your personal data from our data storage. Send requests to support@nuclearambitions.com. Although we will respond as quickly as possible, please allow 3 business days.
 
-7.1 We reserve the right to modify these Terms at any time. If we make changes to these Terms, we will post the revised Terms on the Site and update the "Last Updated" date at the top of these Terms. Your continued use of the Site after the posting of the revised Terms means that you accept and agree to the changes.
+## 7. Governing Law
+
+7.1 These Terms shall be governed by and construed in accordance with the laws of California, USA, without regard to its conflict of law principles.
+
+## 8. Changes to Terms
+
+8.1 We reserve the right to modify these Terms at any time. If we make changes to these Terms, we will post the revised Terms on the Site and update the "Last Updated" date at the top of these Terms. Your continued use of the Site after the posting of the revised Terms means that you accept and agree to the changes.
 
 ## 8. Contact Us
 
-8.1 If you have any questions about these Terms, please contact us at contact@nuclearambitions.com.
+9.1 If you have any questions about these Terms, please contact us at contact@nuclearambitions.com.
