@@ -6,13 +6,13 @@ lastUpdated: false
 
 What if you could learn about nuclear energy in a safe environment, with the support of people who are honest and enthusistic? What if you could combine scientific study and experimentation with discourse and creativity?
 
-Zanzibar's World of Nuclear Energy (World of Nuclear for short) is a platform for learning about nuclear energy. Our dream is to create a comprehesive, ever-expanding, landscape of nuclear energy concepts. Through bite-sized lessons, experimental simulations, and lively conversation, people realize the power of nuclear energy. With more awareness, humanity will thrive.
+Zanzibar's World of Nuclear Energy (World of Nuclear for short) is a platform for learning about nuclear energy. Our dream is to create a comprehesive, ever-expanding, landscape of nuclear energy concepts. Through bite-sized lessons, experimental simulations, and lively conversation, people realize the power of nuclear energy.
+
+To see for yourself, visit the [World of Nuclear guide](https://worldofnuclear.com/won-guide).
 
 ## Features
 
 **_Flux_**
-
-[Give Flux a try.](https://flux.worldofnuclear.com)
 
 Join in the conversation about all things nuclear. You are free to express yourself, to share information and opinions. While you are at it, find out what others have to say about nuclear energy. Give messages you like a boost. Respond to anything.
 
@@ -20,21 +20,17 @@ Join in the conversation about all things nuclear. You are free to express yours
 
 **_Lessons_**
 
-[See our courses.](https://worldofnuclear.com/learning)
-
 The World of Nuclear features micro lessons in the science and engineering that makes nuclear energy work for humanity. WoN lessons cover topics in a way that no academic textbook is allowed to. For instance, you might recognize a healthy dose of humor sprinkled throughout the lessons. While we want to convey the general ideas, the lessons are not meant as preparation for standardized tests or as formal vocational training. That means we can relax a little, and try to keep things interesting for a wide range of learners.
 
 Topics advance quickly. For example, the course on atoms starts at the most basic and sweeps through fundamentals across a half-dozen domains. The intent is to expose all concepts, not just the easy ones, to inspire holistic, big-picture thinking. At the same time, each lesson is sized to be completed in about 10 minutes. Students choose from multiple paths through the lessons to match their interests and pace.
 
 Over time, we hope to offer a variety of topics, from the basics of nuclear physics to the latest in nuclear medicine and the future of nuclear energy. The average high school student or graduate should be able to learn a lot from WoN lessons. College-level students and beyond will also find enlightenment and inspiration to explore unfamiliar areas.
 
-Knowledge is power. The best way to overcome debilitating myths, misinformation, and outright lies about nuclear energy is to understand the fundamentals. [World of Nuclear lessons](https://worldofnuclear.com/learning) move the world toward the light.
+Knowledge is power. The best way to overcome debilitating myths, misinformation, and outright lies about nuclear energy is to understand the fundamentals.
 
 ---
 
 **_Adventure Games_**
-
-[Work in progress](https://hero.worldofnuclear.com)
 
 A playful mind is a receptive mind. That's why games are an important aspect of learning. The World of Nuclear takes this idea to heart. Word searches, which are great for becoming familiar with technical terms, are just the start. Soon, WoN will offer games based on simulations and roll playing. Someday, WoN will give you the power to build and operate a (virtual) nuclear empire.
 
@@ -44,4 +40,4 @@ To round out the learnings, the World of Nuclear intends to offer a simulator la
 
 **_Inspired artwork_**
 
-[A bit of nuclear eye candy.](https://worldofnuclear.com)
+[A bit of nuclear eye candy.](https://worldofnuclear.com/art-gallery)
