@@ -55,7 +55,7 @@ Do you like to read? So do we. We also like to write. Check our [the World of Nu
 
 ## Tech Specs
 
-Would you like to see how the World of Nuclear is put together? Read this [technical overview](/won-design).
+Would you like to see how the World of Nuclear is put together? Read this [technical overview](/won-design/).
 
 ## Want to get involved?
 
