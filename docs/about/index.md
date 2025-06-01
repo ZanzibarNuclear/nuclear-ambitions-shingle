@@ -2,9 +2,9 @@
 lastUpdated: false
 ---
 
-# About Nuclear Ambitions LLC
+# About Nuclear Ambitions
 
-Nuclear Ambitions LLC is here to encourage the world to keep advancing with nuclear energy. We want the world to get more from nuclear and reduce or mitigate any side effects. We want to expand our ability to tap into life-giving energy so that humanity can thrive. With abundance comes freedom and happiness.
+Nuclear Ambitions is here to encourage the world to keep advancing with nuclear energy. We want the world to get more from nuclear and reduce or mitigate any side effects. We want to expand our ability to tap into life-giving energy so that humanity can thrive. With abundance comes freedom and happiness.
 
 ## A Brief History of Nuclear Energy
 

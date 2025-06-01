@@ -9,9 +9,10 @@ lastUpdated: false
     {
       avatar: 'https://avatars.githubusercontent.com/u/74470787?v=4',
       name: 'Dave Mount',
-      title: 'Founder',
+      title: 'Nuclear Alchemist',
       links: [
         { icon: 'x', link: 'https://x.com/WeAreZenZen'},
+        { icon: 'substack', link: 'https://davemount.substack.com/'},
         { icon: 'linkedin', link: 'https://www.linkedin.com/in/davemount/'},
         { icon: 'github', link: 'https://github.com/blueisgreen'},
       ]
@@ -22,6 +23,7 @@ lastUpdated: false
       title: 'Nuclear Hero',
       links: [
         { icon: 'x', link: 'https://x.com/ZanzibarNuclear'},
+        { icon: 'substack', link: 'https://zanzisnuclearstack.substack.com/'},
         { icon: 'github', link: 'https://github.com/ZanzibarNuclear'},
       ]
     },
