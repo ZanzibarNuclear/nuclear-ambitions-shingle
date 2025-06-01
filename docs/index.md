@@ -9,7 +9,7 @@ hero:
   image: /images/nuclear-power-plant.jpg
   actions:
     - theme: brand
-      text: World of Nuclear
+      text: Zanzibar's World of Nuclear Energy
       link: /about/world-of-nuclear
     - theme: alt
       text: About Nuclear Ambitions

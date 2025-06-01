@@ -21,7 +21,7 @@ export default defineConfig({
             link: "/about/staff",
           },
           {
-            text: "Zanzibar's World of Nuclear Energy",
+            text: "World of Nuclear",
             link: "/about/world-of-nuclear",
           },
           { text: "Terms of Use", link: "/legal/terms-of-use" },
