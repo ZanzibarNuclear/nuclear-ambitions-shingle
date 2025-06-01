@@ -3,6 +3,6 @@
   "compatibility_date": "2025-05-31",
   "assets": {
     "directory": "docs/.vitepress/dist",
-    "not_found_handling": "404"
+    "not_found_handling": "404-page"
   }
 }
