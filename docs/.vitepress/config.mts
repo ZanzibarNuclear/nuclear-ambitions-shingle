@@ -21,7 +21,7 @@ export default defineConfig({
             link: "/about/staff",
           },
           {
-            text: "World of Nuclear",
+            text: "Zanzibar's World of Nuclear Energy",
             link: "/about/world-of-nuclear",
           },
           { text: "Terms of Use", link: "/legal/terms-of-use" },
@@ -30,8 +30,9 @@ export default defineConfig({
       },
     ],
     socialLinks: [
-      { icon: "github", link: "https://github.com/ZanzibarNuclear" },
       { icon: "x", link: "https://x.com/ZanzibarNuclear" },
+      { icon: 'substack', link: 'https://zanzisnuclearstack.substack.com/' },
+      { icon: "github", link: "https://github.com/ZanzibarNuclear" },
     ],
   },
   head: [["link", { rel: "icon", href: "/favicon.ico" }]],

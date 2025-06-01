@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Nuclear Ambitions"
   text: "Imagine a future of limitless energy"
-  tagline: The world is embracing nuclear energy. Let's build momentum.
+  tagline: The world is embracing nuclear energy. Let's build momentum together.
   image: /images/nuclear-power-plant.jpg
   actions:
     - theme: brand
