@@ -22,6 +22,16 @@ features:
     details: Is X your ex-social-platform? Does BlueSky leave you blue? Does Reddit make you red in the face? Try fluxing your power on Flux.
 ---
 
-&copy;2025 Nuclear Ambitions LLC
+## Brands of Nuclear Ambitions LLC
+
+![World of Nuclear](/images/logo-cherenkov-clear-bg.png)
+https://worldofnuclear.com
+
+![Nuclear Ambitions](/images/na-logo-full-tm.png)
+https://nuclearambitions.com
+
+<span style="font-size:smaller">We have policies that apply to all Nuclear Ambitions LLC digital properties. Check out our [Terms of Use](/legal/terms-of-use) and our [Privacy Policy](/legal/privacy-policy).</span>
 
 <span style="font-size:smaller">Photo by <a href="https://unsplash.com/@federi?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Patrick Federi</a> on <a href="https://unsplash.com/photos/white-smoke-coming-out-from-green-field-uvtUELc92SI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a></span>
+
+&copy;2025 Nuclear Ambitions LLC
