@@ -1,4 +1,4 @@
-import { defineConfig } from "vitepress";
+import { defineConfig } from "vitepress"
 
 export default defineConfig({
   title: "Nuclear Ambitions",
@@ -24,6 +24,10 @@ export default defineConfig({
             text: "World of Nuclear",
             link: "/about/world-of-nuclear",
           },
+          {
+            text: "WoN Demo",
+            link: "/about/demo",
+          },
           { text: "Terms of Use", link: "/legal/terms-of-use" },
           { text: "Privacy Policy", link: "/legal/privacy-policy" },
         ],
@@ -36,5 +40,4 @@ export default defineConfig({
     ],
   },
   head: [["link", { rel: "icon", href: "/favicon.ico" }]],
-  lastUpdated: true,
-});
+})
