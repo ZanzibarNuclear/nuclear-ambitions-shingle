@@ -45,6 +45,8 @@ At the moment, they tend to go a little haywire. That doesn't put anyone at risk
 
 So, we will keep at it. When the time comes, that kind of service plugs in nicely to the microservices architecture.
 
+In anticipation of the growing popularity of the World of Nuclear, we have thought about what we can do under heavy load. Check out our [expansion ideas](./expansion-ideas).
+
 ## Security
 
 Obviously security is a first-order concern of any application. Although we are not collecting sensitive data per se, in this case, reputation is quite important. Users want to know that someone else cannot act on their behalf. They also want a consistent experience from session to session.
