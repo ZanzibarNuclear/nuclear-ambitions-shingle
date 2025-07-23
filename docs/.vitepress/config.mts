@@ -21,12 +21,25 @@ export default defineConfig({
             link: "/about/staff",
           },
           {
-            text: "World of Nuclear",
-            link: "/about/world-of-nuclear",
-          },
-          {
-            text: "WoN Demo",
-            link: "/about/demo",
+            text: "World of Nuclear (WoN)",
+            items: [
+              {
+                text: "WoN Platform",
+                link: "/about/world-of-nuclear",
+              },
+              {
+                text: "Demo (video)",
+                link: "/about/demo",
+              },
+              {
+                text: "System Design",
+                link: "/won-design/",
+              },
+              {
+                text: "Expansion Plans",
+                link: "/won-design/expansion-ideas",
+              },
+            ]
           },
           { text: "Terms of Use", link: "/legal/terms-of-use" },
           { text: "Privacy Policy", link: "/legal/privacy-policy" },
