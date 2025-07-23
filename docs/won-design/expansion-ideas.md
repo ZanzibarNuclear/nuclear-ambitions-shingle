@@ -62,8 +62,26 @@ In the last month, we have begun to use MongoDB as the datastore for our Adventu
 
 Finally, let's return to the services. When we need to host more than one, it makes sense to deploy containers that hold the latest production code. That would give us a consistency over what is deployed and an easy way to scale up instances. Those instances would run behind a firewall (provided by Hetzner).
 
+Let's draw a diagram that includes deployment and extra instances of components.
+
+![WoN at Scale](/images/WoN-at-Scale.png)
+
+If you have a sharp memory, you might be wondering about Resend for email delivery? That is another fully scalable service that we are leveraging for free. If we had more registrations and other email-triggering events, we might need to start paying for volume of delivery. There is little chance, short of some kind of service attack, of exceeding the limits of the Resend service.
+
 ### Handling AI Activity
+
+When you read any news about AI, you would think that using AI will cause global blackouts from the power drain. However, that is more to do with training AI models than with using them for inference or generating clever responses for curious users.
+
+Here at the World of Nuclear, we see little reason to train our own models. At most, we might want to supplement the general models the world is providing. Especially if they need better details about nuclear-related topics. That training can be done on separate infrustructure.
+
+For example, if we want to add a RAG pipeline to load nuclear power plant specs, we could stand up a Python service that connects to Mongo for data ingest, chunking, embedding, and FAISS indexing. Assuming we have an AI-enabled chat bot, that information would be incorporated into responses when relevant.
+
+Still, even generating responses takes a fair amount of compute, enough to compete with other processes on the same host. This would merit spending some money on a few specialized machines. We might want to rent GPUs for that if demand is high enough. And we probably need to attach SSD or NVMe drives for additional fast storage capacity. Aside from that, the hardware systems should scale up the same way we scale our microservices.
+
+When we need concurrent processing, we might want to introduce a code-based dispatcher to place work on a queue, and have worker nodes take work as they become available.
 
 ### Supporting Simulations
 
-## Scaling the Team - Process Evolution
+Imagine we are running full-scale simulations of nuclear power plants. Imagine that hundreds of users are running their own.
+
+The hardware to run a simulation would look a lot like the hardware to run microservices. Essentially, there would be some number of Python, Go or Rust processes gathering data from (simulated) "sensors," running that data through physics models, and capturing events as time-series data sets.
