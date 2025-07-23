@@ -8,7 +8,7 @@ lastUpdated: false
 
 A resilient architecture is flexible enough to expand as limitations are reached and to adapt as new requirements surface. This page explores the ways in which the World of Nuclear architure could support orders of magnitude more traffic, as well as additional popular features.
 
-For reference, our baseline is the [current system design](/won-design/).
+For reference, this is our current baseline architecture ![World of Nuclear System Diagram](/images/WoN-Architecture-2025-July.png)
 
 ## Scalability
 

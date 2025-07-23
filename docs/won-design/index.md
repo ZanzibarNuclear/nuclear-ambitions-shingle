@@ -11,7 +11,7 @@ Take a quick tour through the innerworkings of the World of Nuclear.
 
 This system diagram shows all of the parts that bring you a great user experience.
 
-![World of Nuclear System Diagram](/images/WoN-Architecture.png)
+![World of Nuclear System Diagram](/images/WoN-Architecture-2025-July.png)
 
 This is a standard micro-services architecture.
 
