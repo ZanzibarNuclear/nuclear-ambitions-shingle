@@ -18,7 +18,7 @@ We can think about "what if" scenarios involing scale. Let's tackle the three mo
 - AI automation: bringing more agents online to interact with users and support operations
 - Simulations (future feature): generating, storing and presenting "real-time" volumes of system data
 
-### Human Demand
+### Traffic - Human Usage
 
 #### Utilization as of 2025-7-23
 
