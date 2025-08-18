@@ -9,9 +9,40 @@ export default defineConfig({
     siteTitle: false,
     nav: [
       { text: "Home", link: "/" },
+      { text: "Consulting", link: "/consulting/" },
       { text: "About", link: "/about/" },
     ],
     sidebar: [
+      {
+        text: "Services",
+        items: [
+          {
+            text: "Consulting",
+            link: "/consulting/",
+          }
+        ]
+      },
+      {
+        text: "World of Nuclear (WoN)",
+        items: [
+          {
+            text: "WoN Platform",
+            link: "/about/world-of-nuclear",
+          },
+          {
+            text: "Demo (video)",
+            link: "/about/demo",
+          },
+          {
+            text: "System Design",
+            link: "/won-design/",
+          },
+          {
+            text: "Expansion Plans",
+            link: "/won-design/expansion-ideas",
+          },
+        ]
+      },
       {
         text: "Learn More",
         items: [
@@ -19,27 +50,6 @@ export default defineConfig({
           {
             text: "Who We Are",
             link: "/about/staff",
-          },
-          {
-            text: "World of Nuclear (WoN)",
-            items: [
-              {
-                text: "WoN Platform",
-                link: "/about/world-of-nuclear",
-              },
-              {
-                text: "Demo (video)",
-                link: "/about/demo",
-              },
-              {
-                text: "System Design",
-                link: "/won-design/",
-              },
-              {
-                text: "Expansion Plans",
-                link: "/won-design/expansion-ideas",
-              },
-            ]
           },
           { text: "Terms of Use", link: "/legal/terms-of-use" },
           { text: "Privacy Policy", link: "/legal/privacy-policy" },
