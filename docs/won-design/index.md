@@ -1,5 +1,5 @@
 ---
-title: World of Nuclear System Design
+title: World of Nuclear - System Design
 lastUpdated: false
 ---
 

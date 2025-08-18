@@ -9,13 +9,15 @@ hero:
   image: /images/nuclear-power-plant.jpg
   actions:
     - theme: brand
-      text: Zanzibar's World of Nuclear Energy
-      link: /about/world-of-nuclear
+      text: Consulting
+      link: /consulting/
     - theme: alt
-      text: About Nuclear Ambitions
-      link: /about/
+      text: Atomic Ambitions - World of Nuclear
+      link: /about/world-of-nuclear
 
 features:
+  - title: Project Work
+    details: Our team of software engineers is ready to boost your development efforts.
   - title: World of Nuclear
     details: A digital platform for learning about nuclear energy. Join Zanzibar, Nuclear Hero, in his quest to empower the world.
   - title: Flux
