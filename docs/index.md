@@ -26,6 +26,9 @@ features:
 
 ## Brands of Nuclear Ambitions LLC
 
+![Atomic Ambitions](/images/atomic-ambitions-logo.png)
+https://atomicambitions.com
+
 ![World of Nuclear](/images/logo-cherenkov-clear-bg.png)
 https://worldofnuclear.com
 
