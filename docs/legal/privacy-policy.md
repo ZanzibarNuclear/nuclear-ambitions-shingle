@@ -8,11 +8,7 @@ Privacy Policy
 
 This Privacy Policy describes how Nuclear Ambitions LLC ("we" or "us") collects, uses, and discloses information that we may obtain through your use of the [World of Nuclear](https://worldofnuclear.com) platform and website (the "Site").
 
-![World of Nuclear](/images/logo-cherenkov-clear-bg.png)
-https://worldofnuclear.com
-
-![Nuclear Ambitions](/images/na-logo-full-tm.png)
-https://nuclearambitions.com
+<!--@include: ../parts/properties.md-->
 
 ## 1. Information We Collect
 
@@ -46,4 +42,4 @@ We may also collect information about your use of the Site.
 
 ## 7. Contact Us
 
-7.1 If you have any questions about this Privacy Policy, please contact us at contact@worldofnuclear.com.
+7.1 If you have any questions about this Privacy Policy, please contact us at contact@nuclearambitions.com.

@@ -23,10 +23,19 @@ export default defineConfig({
         ]
       },
       {
+        text: "Atomic Ambitions",
+        items: [
+          {
+            text: "About",
+            link: "/about/atomic-ambitions"
+          }
+        ]
+      },
+      {
         text: "World of Nuclear (WoN)",
         items: [
           {
-            text: "WoN Platform",
+            text: "About",
             link: "/about/world-of-nuclear",
           },
           {

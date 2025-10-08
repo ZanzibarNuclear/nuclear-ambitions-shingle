@@ -8,8 +8,7 @@ This website (the "Site") is owned and operated by Nuclear Ambitions, LLC ("we" 
 
 These terms apply to domains (and their subdomains) owned and operated by Nuclear Ambitions LLC, including:
 
-- Nuclear Ambitions: nuclearambitions.com
-- World of Nuclear: worldofnuclear.com
+<!--@include: ../parts/properties.md-->
 
 ## 1. Use of the Site
 
