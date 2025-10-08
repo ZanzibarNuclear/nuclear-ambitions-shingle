@@ -2,7 +2,7 @@
 lastUpdated: true
 ---
 
-**_Version: 2.0, Effective: 8 October 2025_**
+**_Effective: 8 October 2025 | Version: 2.0_**
 
 # Privacy Policy
 
