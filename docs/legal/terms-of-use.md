@@ -24,7 +24,7 @@ Nuclear Ambitions LLC ("we" or "us") owns and operates a set of digital properti
 
 2.1 Our Content: All content on the Platform, including text, graphics, images, videos, and software, is owned by us or our licensors and protected by copyright, trademark, and other intellectual property laws, except for content in the public domain or for which we have secured distribution rights.
 
-2.2 User-Generated Content: If you submit content (e.g., forum posts, comments, feedback), you grant us a non-exclusive, worldwide, royalty-free license to use, modify, and display such content on the Platform. Do not post content that is not your own in violation of copyright protections. We may remove or moderate content that violates these Terms.
+2.2 User-Generated Content: If you submit content (e.g., forum posts, comments, feedback), you grant us a non-exclusive, worldwide, royalty-free license to use, modify, and display such content on the Platform. Do not post content that is not your own in violation of copyright protections. Do not post sexually explicit writing or images. We may remove or moderate content that violates these Terms.
 
 2.3 Restrictions: You may not copy, modify, distribute, or display any Platform content without our prior written consent, except for sharing content via social media with proper attribution to Nuclear Ambitions LLC.
 
@@ -34,7 +34,7 @@ Nuclear Ambitions LLC ("we" or "us") owns and operates a set of digital properti
 
 3.2 Do express yourself and share your knowledge and opinions. Do engage in civilized conversations and debates. It is okay to disagree and argue. Humor is permitted, as are attempts at humor.
 
-3.3 Refrain from threats and personal attacks on others. We reserve the right to remove the offending content and suspend your account.
+3.3 Refrain from threats and personal attacks on others. We reserve the right to hide or remove offensive material and suspend your account.
 
 3.4 You may not:
 
@@ -57,18 +57,37 @@ Nuclear Ambitions LLC ("we" or "us") owns and operates a set of digital properti
 
 ## 6. Account Deletion
 
-6.1 You may cease to use this service at any time.
+6.1 You may stop using the Platform at any time.
 
-6.2 Upon your written request, we will remove all of your personal data from our data storage. Send requests to support@nuclearambitions.com. Although we will respond as quickly as possible, please allow 3 business days.
+6.2 To request deletion of your personal data, contact us at support@nuclearambitions.com. We will process your request within 30 days, subject to legal obligations to retain certain data (e.g., for tax or compliance purposes).
 
 ## 7. Governing Law
 
-7.1 These Terms shall be governed by and construed in accordance with the laws of California, USA, without regard to its conflict of law principles.
+7.1 These Terms are governed by the laws of California, USA, without regard to its conflict of law principles. Some jurisdictions may apply mandatory local laws, which may affect your rights.
 
-## 8. Changes to Terms
+7.2 Any disputes arising from these Terms will be resolved through binding arbitration in California, in accordance with the rules of the American Arbitration Association, except where prohibited by law.
 
-8.1 We reserve the right to modify these Terms at any time. If we make changes to these Terms, we will post the revised Terms on the Platform and update the "Last Updated" date at the top of these Terms. Your continued use of the Platform after the posting of the revised Terms means that you accept and agree to the changes.
+## 8. Termination
 
-## 8. Contact Us
+8.1 We may suspend or terminate your access to the Platform, without notice, if you violate these Terms or engage in activities that harm the Platform or other users.
 
-9.1 If you have any questions about these Terms, please contact us at contact@nuclearambitions.com.
+8.2 Upon termination, your right to use the Platform will cease, but any provisions of these Terms that should reasonably survive (e.g., intellectual property, limitation of liability) will remain in effect.
+
+## 9. Indemnification
+
+You agree to indemnify and hold harmless Nuclear Ambitions LLC, its affiliates, and employees from any claims, damages, or losses, including legal fees, arising from your use of the Platform, violation of these Terms, or infringement of any third-party rights.
+
+## 10. Third-Party Services
+
+The Platform may include features or links to third-party services (e.g., analytics tools, social media platforms). These services are subject to their own terms and privacy policies, and we are not responsible for their practices.
+
+## 11. Changes to Terms
+
+11.1 We may update these Terms at any time. Revised Terms will be posted on the Platform with an updated “Effective Date.” We will not notify account holders changes. Your continued use of the Platform after changes are posted constitutes acceptance of the revised Terms. We encourage you to review these Terms periodically.
+
+## 12. Contact Us
+
+12.1 For questions about these Terms, contact us at:
+
+- Email: contact@nuclearambitions.com
+- Address: Nuclear Ambitions LLC, 2108 N St Ste N, Sacramento, CA 95816
